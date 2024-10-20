@@ -32,5 +32,5 @@ public class DeleteTaskServlet extends HttpServlet {
 
         // タスク一覧にリダイレクト
         response.sendRedirect("index.jsp");
-    }
+    } 
 }
